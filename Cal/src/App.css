@@ -1,0 +1,24 @@
+button{
+  padding:10px;
+  margin:10px;
+  border-radius: 10px;
+}
+
+button:hover {
+  color: red;
+}
+
+input[type="text"] {
+  padding:10px;
+  margin: 5px;
+  border-radius: 10px;
+  background-color: brown;
+  color: white;
+} 
+
+
+div{
+  background-color: darkcyan;
+  
+}
+
